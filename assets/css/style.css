@@ -1,0 +1,56 @@
+div.container {
+    background: url("../images/mariobro.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+div.image {
+    content: url("../images/title.png");
+    opacity: 0.9 display: block;
+    margin: auto;
+    width: 50%;
+    height: auto;
+}
+
+#alphabet {
+    background-color: white;
+    
+    border: 2px solid #555555;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+
+
+#alphabet li {
+    background-color: white;
+    float: left;
+    margin: 0 10px 10px 0;
+    list-style: none;
+    width: 35px;
+    height: 30px;
+    padding-top: 10px;
+    cursor: pointer;
+    border: 2px solid #555555 color: black;
+}
+
+#letter {
+    background-color: white;
+    border: 2px solid blue;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+}
